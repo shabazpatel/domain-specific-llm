@@ -1,8 +1,11 @@
 # Domain-Specific LLM
 
-Constructing an effective Language Model system entails a journey through several crucial phases. Initially, it demands the employment of robust evaluation metrics to benchmark the strides in development and selection of LLMs. Following suit, the venture dives into the art of engineering the precise prompt, harnessing the power of Retrieval Augmented Generation, and fine-tuning, with the evaluation metrics shining as the guiding star. The final leg of the journey underscores the imperative of guardrails, a shield against malicious endeavors, anchoring the trustworthiness and reliability of the LLM system.
+Building an effective Language Model system involves several crucial steps. To begin with, it requires the utilization of evaluation metrics to benchmark the development and selection of LLMs. Then, it involves engineering the right prompt and utilizing Retrieval Augmented Generation, and fine-tuning with evaluation metrics as the north star. Finally, ensuring the presence of a guardrail is important to prevent any malicious activity and establish a trustworthy and reliable LLM system.
 
-This narrative unfolds a comprehensive framework dedicated to nurturing domain-specific Large Language Model (LLM) systems, with a spotlight on harmonizing with the Islamic worldview. A kaleidoscope of approaches, design choices, datasets, prompts, and a meticulous evaluation of diverse trade-offs and methodologies are presented. The compass was set towards fabricating systems that resonate authentically with Islamic teachings, while gracefully navigating the technical and epistemological rapids associated with the depths of Islamic knowledge. The horizon beckons for further explorations to refine the modules, datasets, and delve deeper into the technical and epistemological realms, unearthing a richer understanding and potential enhancements.
+![Framework for Domain-specific LLM System](full-stack-gen-ai-framework.png)
+
+This repository presents a comprehensive framework for developing domain-specific Large Language Model (LLM) systems, with a particular focus on aligning with the Islamic worldview. We have presented various approaches, design choices, datasets, prompts, and a thorough evaluation of different trade-offs and methodologies. The aim was to construct systems that accurately represent Islamic teachings while addressing the technical and epistemological challenges associated with the nuances of Islamic knowledge. Further research can improve each of the modules, datasets, and assess the technical limitations and epistemological challenges in more detail.
+
 
 #### Files and Their Descriptions:
 
