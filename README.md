@@ -1,6 +1,6 @@
 # Domain-Specific LLM
 
-Building an effective Language Model system involves several crucial steps. To begin with, it requires the utilization of evaluation metrics to benchmark the development and selection of LLMs. Then, it involves engineering the right prompt and utilizing Retrieval Augmented Generation, and fine-tuning with evaluation metrics as the north star. Finally, ensuring the presence of a guardrail is important to prevent any malicious activity and establish a trustworthy and reliable LLM system. In addition to score-based evaluation metrics, adversarial testing is required to analyze and understand the limitations of built systems.
+Building an effective Language Model system involves several crucial steps. To begin with, it requires the utilization of evaluation metrics to benchmark the development and selection of LLMs. Then, it involves engineering the right prompt and utilizing Retrieval Augmented Generation, and fine-tuning with evaluation metrics as the north star. Finally, ensuring the presence of a guardrail is important to prevent any malicious activity and establish a trustworthy and reliable LLM system. In addition to score-based evaluation metrics, adversarial testing is required to qualitatively analyze and understand the limitations of built systems.
 
 ![Framework for Domain-specific LLM System](full-stack-gen-ai-framework.png)
 
