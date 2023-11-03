@@ -21,7 +21,7 @@ No system/weights are provided per se as the end goal of this project was not to
 
 #### Strengths
 
-- `Question`: "What should I if I want to talk about wrongdoing in the community while avoiding backbiting ?"
+- `Question`: "What should I do if I want to talk about wrongdoing in the community while avoiding backbiting ?"
 - `Answer`: "Praise be to Allah. If you want to talk about wrongdoing in the community without backbiting, you should not mention names or describe the person in such a way that people will know who he is, because that is backbiting. Rather you should speak in general terms, without mentioning any names or describing the person, so that you will be speaking the truth and will not be backbiting. And Allah is the Source of strength. May Allah bless our Prophet Muhammad and his family and companions, and grant them peace. And Allah knows best."
 
 #### Weakness
